@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Priyangshu.
 
-<!--
-**priyangshupal/priyangshupal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+- I'm currently pursuing Masters in Computer Science at New York University.
+- I was working as a Software Engineer at Walmart, building multitenant orchestration platforms for chatbots.
+- I've worked across the stack, using technologies like TypeScript, JavaScript, Node.js, Java, Spring Boot, React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me
+
+<!-- [<img align="left" alt="website" src="https://img.shields.io/badge/Website-orange?style=for-the-badge" />](https://polaris000.com) -->
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/priyangshupal)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyangshupal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![](https://hit.yhype.me/github/profile?user_id=31214064) -->
