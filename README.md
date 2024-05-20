@@ -4,7 +4,6 @@
 
 - I'm currently pursuing Masters in Computer Science at New York University.
 - I was working as a Software Engineer at Walmart, building multitenant orchestration platforms.
-- I've worked across the stack, using technologies like TypeScript, JavaScript, Node.js, Java, Spring Boot, React, and am also familiar with AWS.
 
 ### I've worked with
 
